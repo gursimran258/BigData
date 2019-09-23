@@ -1,7 +1,3 @@
----
-
-
----
 
 <p>This repository consists of practice assignment for Hive, Spark, and Scala</p>
 <blockquote>
